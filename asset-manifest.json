@@ -1,18 +1,17 @@
 {
   "files": {
     "main.css": "/reactapp/static/css/main.453a5407.chunk.css",
-    "main.js": "/reactapp/static/js/main.ef4b2f32.chunk.js",
-    "main.js.map": "/reactapp/static/js/main.ef4b2f32.chunk.js.map",
+    "main.js": "/reactapp/static/js/main.dd2f269d.chunk.js",
+    "main.js.map": "/reactapp/static/js/main.dd2f269d.chunk.js.map",
     "runtime-main.js": "/reactapp/static/js/runtime-main.95795ac6.js",
     "runtime-main.js.map": "/reactapp/static/js/runtime-main.95795ac6.js.map",
-    "static/js/2.9cf65fd1.chunk.js": "/reactapp/static/js/2.9cf65fd1.chunk.js",
-    "static/js/2.9cf65fd1.chunk.js.map": "/reactapp/static/js/2.9cf65fd1.chunk.js.map",
+    "static/js/2.49d1b527.chunk.js": "/reactapp/static/js/2.49d1b527.chunk.js",
+    "static/js/2.49d1b527.chunk.js.map": "/reactapp/static/js/2.49d1b527.chunk.js.map",
     "index.html": "/reactapp/index.html",
-    "precache-manifest.1d837cf65c8048b7948c3785fef3657e.js": "/reactapp/precache-manifest.1d837cf65c8048b7948c3785fef3657e.js",
+    "precache-manifest.ceac7e297f84e6e59032a324440e6c20.js": "/reactapp/precache-manifest.ceac7e297f84e6e59032a324440e6c20.js",
     "service-worker.js": "/reactapp/service-worker.js",
     "static/css/main.453a5407.chunk.css.map": "/reactapp/static/css/main.453a5407.chunk.css.map",
     "static/media/aseru.png": "/reactapp/static/media/aseru.943bb613.png",
-    "static/media/laboryrinth.png": "/reactapp/static/media/laboryrinth.79410b47.png",
     "static/media/ldjam.png": "/reactapp/static/media/ldjam.c8c1ad57.png",
     "static/media/logo.svg": "/reactapp/static/media/logo.25bf045c.svg",
     "static/media/pdeception.png": "/reactapp/static/media/pdeception.a1c3782c.png",
@@ -21,8 +20,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.95795ac6.js",
-    "static/js/2.9cf65fd1.chunk.js",
+    "static/js/2.49d1b527.chunk.js",
     "static/css/main.453a5407.chunk.css",
-    "static/js/main.ef4b2f32.chunk.js"
+    "static/js/main.dd2f269d.chunk.js"
   ]
 }
