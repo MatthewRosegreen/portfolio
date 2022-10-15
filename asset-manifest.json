@@ -1,27 +1,26 @@
 {
   "files": {
-    "main.css": "/reactapp/static/css/main.453a5407.chunk.css",
-    "main.js": "/reactapp/static/js/main.dd2f269d.chunk.js",
-    "main.js.map": "/reactapp/static/js/main.dd2f269d.chunk.js.map",
-    "runtime-main.js": "/reactapp/static/js/runtime-main.95795ac6.js",
-    "runtime-main.js.map": "/reactapp/static/js/runtime-main.95795ac6.js.map",
-    "static/js/2.49d1b527.chunk.js": "/reactapp/static/js/2.49d1b527.chunk.js",
-    "static/js/2.49d1b527.chunk.js.map": "/reactapp/static/js/2.49d1b527.chunk.js.map",
-    "index.html": "/reactapp/index.html",
-    "precache-manifest.ceac7e297f84e6e59032a324440e6c20.js": "/reactapp/precache-manifest.ceac7e297f84e6e59032a324440e6c20.js",
-    "service-worker.js": "/reactapp/service-worker.js",
-    "static/css/main.453a5407.chunk.css.map": "/reactapp/static/css/main.453a5407.chunk.css.map",
-    "static/media/aseru.png": "/reactapp/static/media/aseru.943bb613.png",
-    "static/media/ldjam.png": "/reactapp/static/media/ldjam.c8c1ad57.png",
-    "static/media/logo.svg": "/reactapp/static/media/logo.25bf045c.svg",
-    "static/media/pdeception.png": "/reactapp/static/media/pdeception.a1c3782c.png",
-    "static/media/quota.png": "/reactapp/static/media/quota.63fe6dd1.png",
-    "static/media/voidgame.png": "/reactapp/static/media/voidgame.5ca5f429.png"
+    "main.css": "/portfolio/static/css/main.5e069579.chunk.css",
+    "main.js": "/portfolio/static/js/main.5de0fd94.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.5de0fd94.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.a9f76519.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.a9f76519.js.map",
+    "static/js/2.497bbfe9.chunk.js": "/portfolio/static/js/2.497bbfe9.chunk.js",
+    "static/js/2.497bbfe9.chunk.js.map": "/portfolio/static/js/2.497bbfe9.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/main.5e069579.chunk.css.map": "/portfolio/static/css/main.5e069579.chunk.css.map",
+    "static/js/2.497bbfe9.chunk.js.LICENSE.txt": "/portfolio/static/js/2.497bbfe9.chunk.js.LICENSE.txt",
+    "static/media/aseru.6974192a.png": "/portfolio/static/media/aseru.6974192a.png",
+    "static/media/ldjam.a1f0f1c1.png": "/portfolio/static/media/ldjam.a1f0f1c1.png",
+    "static/media/logo.927f1d60.svg": "/portfolio/static/media/logo.927f1d60.svg",
+    "static/media/pdeception.92174a14.png": "/portfolio/static/media/pdeception.92174a14.png",
+    "static/media/quota.57be3942.png": "/portfolio/static/media/quota.57be3942.png",
+    "static/media/voidgame.864aba68.png": "/portfolio/static/media/voidgame.864aba68.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.95795ac6.js",
-    "static/js/2.49d1b527.chunk.js",
-    "static/css/main.453a5407.chunk.css",
-    "static/js/main.dd2f269d.chunk.js"
+    "static/js/runtime-main.a9f76519.js",
+    "static/js/2.497bbfe9.chunk.js",
+    "static/css/main.5e069579.chunk.css",
+    "static/js/main.5de0fd94.chunk.js"
   ]
 }
