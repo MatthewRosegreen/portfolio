@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.5e069579.chunk.css",
-    "main.js": "/portfolio/static/js/main.5de0fd94.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.5de0fd94.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.fe742596.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.fe742596.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.a9f76519.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.a9f76519.js.map",
     "static/js/2.497bbfe9.chunk.js": "/portfolio/static/js/2.497bbfe9.chunk.js",
@@ -11,6 +11,7 @@
     "static/css/main.5e069579.chunk.css.map": "/portfolio/static/css/main.5e069579.chunk.css.map",
     "static/js/2.497bbfe9.chunk.js.LICENSE.txt": "/portfolio/static/js/2.497bbfe9.chunk.js.LICENSE.txt",
     "static/media/aseru.6974192a.png": "/portfolio/static/media/aseru.6974192a.png",
+    "static/media/laboryrinth.2ef4ae31.png": "/portfolio/static/media/laboryrinth.2ef4ae31.png",
     "static/media/ldjam.a1f0f1c1.png": "/portfolio/static/media/ldjam.a1f0f1c1.png",
     "static/media/logo.927f1d60.svg": "/portfolio/static/media/logo.927f1d60.svg",
     "static/media/pdeception.92174a14.png": "/portfolio/static/media/pdeception.92174a14.png",
@@ -21,6 +22,6 @@
     "static/js/runtime-main.a9f76519.js",
     "static/js/2.497bbfe9.chunk.js",
     "static/css/main.5e069579.chunk.css",
-    "static/js/main.5de0fd94.chunk.js"
+    "static/js/main.fe742596.chunk.js"
   ]
 }
